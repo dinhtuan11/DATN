@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
- c 
+    hello A Lương 
+    csdasasdads 
     </>
   )
 }
